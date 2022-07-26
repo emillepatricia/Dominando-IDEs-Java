@@ -1,0 +1,4 @@
+Instação JDK e Git no Windows
+
+Caminho:
+C:\Program Files\Java\zulu17.36.13-ca-jdk17.0.4-win_x64

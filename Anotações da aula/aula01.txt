@@ -1,0 +1,19 @@
+Aula 1
+Java é uma linguagem orientada a objeto
+Java é uma linguagem interpretada
+ex: Quando escrevemos um programa java na IDE e salva esse programa, utilizando o JDK(kit de desenvolvimento java) ele é salvo na extensão .java => o compilador pega esse arquivo e modifica para .class que é um bytecode => a máquina virtual java (JVM) pega o programa convertido na extensão .class(bytecode), interpreta pra linguagem de máquina e assim o SO possa ler e interpretar as instruções passadas nesse programa.
+Na plataforma java, a linguagem java não é a única linguagem
+Na Plataforma, seus programas roda através de uma máquina virtual que pode ser emulada
+Sistema embarcado - sisetma que roda em dispositivos e que tem uma função própria (calculadora, moldem, roteador, urna eletrônica)
+
+JDK (Java Development kit) - é o kit de Desenvolvimento Java responsãvel por compilar código-fonte (.java) em bytecode (.class)
+JVM (Java Virtual Machine) - é a Máquina Virtual do Java responsável por executar o bytecode (.class)
+JRE (Java Runtime Environment) - Ambiente de Execução o Java que fornece as bibliotecas padrões do Java para o JDK compilar o seu código e para a JVM executar o seu programa
+
+ 
+
+
+C:\Program Files\Java\zulu17.36.13-ca-jdk17.0.4-win_x64
+
+
+
