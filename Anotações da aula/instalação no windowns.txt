@@ -1,4 +1,48 @@
 Instação JDK e Git no Windows
 
-Caminho:
-C:\Program Files\Java\zulu17.36.13-ca-jdk17.0.4-win_x64
+
+openjdk zulu - site azul 
+baixar o ultimo java LTS - no meu baixei o JAVA 17(LTS) 64 bits zipado
+após baixado colocar na unidade C em / arquivos de programas / java - para descompactar
+
+==> C:\Program Files\Java\zulu17.36.13-ca-jdk17.0.4-win_x64
+
+Configurar o java home - caminho para encontrar onde está tudo que precisa relacionando ao java
+- na barra de pesquisa, digitar var (editar variáveis de ambiente do sistema)
+-entra em propriedade do sistema / avançado /  variáveis de ambiente
+-em variáveis de ambiente... cria uma nova variável de ambiente que vai ser o java home
+-Clica em novo..
+-nome da variável com letra maiúscula: JAVA_HOME
+-valor da variável (copia o caminho onde ele foi descompactado) => C:\Program Files\Java\zulu17.36.13-ca-jdk17.0.4-win_x64
+
+-Após isso: configurar o path que vai estar na mesma caixa de input que o JAVA_HOME
+-clicar em path / editar / novo -- abre uma caixa editável (colar o caminho novamente)
+-colocar barra invertida + bin (\bin) --- clicar fora
+-clicar nele e mover para cima, para ficar no topo! OK e sai
+
+
+Testar se está instalado e configurado
+-windowns + r ==>cmd
+comando =>java --version
+
+Instalação Git
+-Entre no site oficial do GIT
+-Escolha a opção Windows e o instalador será baixado automaticamente
+-Mantenha as opções pré-selecionadas e siga com Next
+-Instale
+-Antes de finalizar a instalação, selecione a opção Lauch Git Bash
+-Ao finalizar o passo 5, irá abrir o Git Bash
+-Agora vamos fazer as configurações iniciais:
+-Confirme se o git realmente está instalado:
+git --version
+-Vamos começar como configurações iniciais:
+-Configurar o nome do usuário
+git config --global user.name "Seu nome"
+​-Configure o endereço de e-mail: ​É de suma importância que o ENDEREÇO ​​DE E-MAIL SEJA O MESMO DO GITHUB afim de evitar conflitos!
+git config --global user.email seuemail@email.br
+-Vamos conferir a lista de configurações:
+git config --list
+-Pronto, git instalado e configurado com sucesso!
+
+
+
