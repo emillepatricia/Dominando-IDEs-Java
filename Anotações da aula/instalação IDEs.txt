@@ -1,0 +1,40 @@
+🔺Instalação Eclipse
+🔹 1. Acesse o site oficial do ECLIPSE
+
+🔹 2. Faça o download do instalador
+
+🔹 3. Escolha na segunda opção: Eclipse IDE para Enterprise Java e Web Developers Link de download para Windows
+
+🔹 4. Clique na pasta da primeira opção (Java 11 + VM) e selecione o JDK que instalamos na nossa máquina
+
+🔹 5. Mantenha as opções "criar entrada do menu iniciar" e "criar atalho na área de trabalho"
+
+🔹 6. Instale
+
+🔹 7. Aceite agora
+
+🔹 8. Lançamento
+
+🔹 9. Pronto, intalação concluída
+
+
+🔺Instalação IntelliJ IDEA Community
+🔹 1. Entre no site ofical do INTELLIJ
+
+🔹 2. Escolha a opção Comunidade e faça o download
+
+🔹 3. Siga com next
+
+🔹 4. Na opção Opções de instalação, selecione como opções: 4.1 Launcher de 64 bits (caso seu sistema seja 64 bits, caso não selecione 32 bits) 4.2 Adicionar "Abrir pasta como projeto" 4.3 .java - .groovy - . kt - .kts 4.4 Adicionar lauchers dir ao PATH 4.5 Next
+
+🔹 5. Instale
+
+🔹 6. Para finalizar a instalação, escolha a opção reebot mais tarde
+
+🔹7. Com o IntelliJ já instalado, vamos iniciar:
+
+7.1 Aceite os termos: confirmo que tenho... >> Confirmar
+
+7.2 Compartilhamento de dados >> Enviar estatísticas anônimas
+
+🔹8. IDE pronto para uso!
