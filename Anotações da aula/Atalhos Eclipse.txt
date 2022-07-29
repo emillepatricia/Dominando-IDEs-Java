@@ -2,3 +2,5 @@ Atalhos no Java
 ctrl + shist + f = identação -- arruma o código se estiver bagunçado
 ctrl + shift + o = importa a class do pacote
 sysout + ctrl + espaço = System.out.printl();
+ctrl + m = abre as abas
+seleciona o bloco e clica ctrl + shift + C = comenta o bloco

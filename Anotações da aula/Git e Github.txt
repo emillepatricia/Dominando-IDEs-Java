@@ -1,0 +1,23 @@
+Criando repositório no Git e Github
+
+-Botão direito no projeto(que está em pakege explorer)
+-Team
+-Share Project
+--clica em: Use or create repository in parent folder of project 
+--selecionar o repositório que está subindo
+--create repository
+--finish
+-novamente clica com botão direito no projeto
+-Team
+-commit (ctrl + #)
+--------mudar perspectiva git (ctrl + 3 -- git) 
+-Em git staging 
+-clica nas modificações feitas para adicionar em Staged Changes(2)
+-em Commit Message, descreve a mensagem
+--commit -- só comita e deixa em uma área e depois dá o push
+--commit and push --  sobe direto para o github
+--abre a aba (push branch master)
+--dizer onde vai subir o código
+--URI -- é a do repositório criado no git 
+--coloca o usuário do git e a senha (fui em configurações de desenvolvedor e criei novo token para usar a senha)
+-Atualizado no repositório, é só atualizar que já vai subiu
