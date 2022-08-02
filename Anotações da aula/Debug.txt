@@ -1,0 +1,4 @@
+Debug
+
+É encontrar e corrigir erros que pode aparecer no programa
+Ctrl + N abre classe

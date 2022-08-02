@@ -1,0 +1,17 @@
+IntelliJ
+
+alt + insert em cima da pasta src - cria um pacote
+ctrl + shift + F10 configura com o método, roda o programa e indica que tem o método main 
+shift + F10 roda o programa
+selecionando o bloco e clicando em ctrl + shift + / comenta o bloco... para tirar, só clicar novamente
+ctrl + / comenta de linha por linha
+alt + enter import
+ctrl + alt + o , apaga o import que não está sendo usado
+ctrl + y deleta linha
+se quiser refatorar o nome de alguma classe, ou atributo, ésó clicar em shift + F6
+ctrl + alt + L organiza o código
+ctrl + D duplica linha
+ctrl + shift + seta para cima ou baixo, movimenta a linha
+vcs - commit - push  - autoriza
+alt + insert abre o generate
+
